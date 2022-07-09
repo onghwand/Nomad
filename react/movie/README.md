@@ -91,9 +91,37 @@ function App() {
 
 <br>
 
-## 폴더구조
+### 폴더구조
 
 - src 내부에 routes폴더, component폴더 따로 관리하는 것이 좋음
   - routes > Detail.js, Home.js
   - component > Movie.js
   - 그 밖에 App.js, index.js
+
+<br>
+
+### deploy
+
+```shell
+$ npm i gh-pages
+$ npm run build
+```
+
+> package.json
+
+```json
+"scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
+  },
+"homepage": "https://onghwand.github.io/Nomad"
+```
+
+```shell
+$ npm run build
+```
+

@@ -17,8 +17,13 @@ function Detail() {
     useEffect(()=> {getDetail()},[])
     return (
     <div><h1>detail</h1>
-    {loading? <h2>Loading...</h2> : 
-    <h1>{movie.title}</h1>}
+    {loading? <h2>Loading...</h2> :
+    <div>
+        <img src={movie.medium_cover_image} alt=".." /> 
+        <h1>{movie.title}</h1>
+        <p>{movie.description_full}</p>
+    </div>
+    }
     </div>
     )
 }
