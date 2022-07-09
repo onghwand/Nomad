@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Nomad/tree/master/react/movie/static/js/main.5f4789d3.js",
-    "index.html": "/Nomad/tree/master/react/movie/index.html",
-    "main.5f4789d3.js.map": "/Nomad/tree/master/react/movie/static/js/main.5f4789d3.js.map"
+    "main.js": "/Nomad/tree/master/react/movie/public/index.html/static/js/main.5f4789d3.js",
+    "index.html": "/Nomad/tree/master/react/movie/public/index.html/index.html",
+    "main.5f4789d3.js.map": "/Nomad/tree/master/react/movie/public/index.html/static/js/main.5f4789d3.js.map"
   },
   "entrypoints": [
     "static/js/main.5f4789d3.js"
