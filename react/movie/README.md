@@ -125,3 +125,6 @@ $ npm run build
 $ npm run build
 ```
 
+> [404 해결](https://prod.velog.io/@drata313/asdasdasd)
+>
+> https://onghwand.github.io/Nomad/
