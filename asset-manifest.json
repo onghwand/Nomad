@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Nomad/static/js/main.5f4789d3.js",
-    "index.html": "/Nomad/index.html",
-    "main.5f4789d3.js.map": "/Nomad/static/js/main.5f4789d3.js.map"
+    "main.js": "/Nomad/https://github.com/onghwand/Nomad/tree/master/react/movie/static/js/main.5f4789d3.js",
+    "index.html": "/Nomad/https://github.com/onghwand/Nomad/tree/master/react/movie/index.html",
+    "main.5f4789d3.js.map": "/Nomad/https://github.com/onghwand/Nomad/tree/master/react/movie/static/js/main.5f4789d3.js.map"
   },
   "entrypoints": [
     "static/js/main.5f4789d3.js"
